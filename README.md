@@ -45,7 +45,7 @@ please add the python file as a function in AWS lambda this function gets invoke
 ![Screenshot 2021-08-05 22 33 59](https://user-images.githubusercontent.com/71206184/128874830-b5f0f6af-8a87-4c1f-8230-d0764f41eef3.png)
 
 ![Screenshot 2021-08-05 22 34 43](https://user-images.githubusercontent.com/71206184/128874864-8aae6200-671e-445a-aead-4754ed79ee0a.png)
-![Screenshot 2021-08-05 22 36 47](https://user-images.githubusercontent.com/71206184/128874872-4e6bb0a2-a823-4be6-be61-d8519f626175.png)
+
 ![Screenshot 2021-08-05 22 37 51](https://user-images.githubusercontent.com/71206184/128874882-f88adaeb-1a39-4b6d-85e6-70d053f156b5.png)
 ![Screenshot 2021-08-05 22 39 24](https://user-images.githubusercontent.com/71206184/128874892-5fcf77b0-fc4c-4475-a554-7215d36a7815.png)
 ![Screenshot 2021-08-06 23 18 19](https://user-images.githubusercontent.com/71206184/128874902-7a5fe0c0-4e4f-4a9e-9622-7368ff13d4e2.png)
