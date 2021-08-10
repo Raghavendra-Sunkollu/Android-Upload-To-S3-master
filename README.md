@@ -41,7 +41,15 @@ $ amplify add storage
 
 
 ![Screenshot 2021-08-05 22 32 00](https://user-images.githubusercontent.com/71206184/128874821-a3d4842c-13d8-4b12-b184-11904b83e58a.png)
+
+
+
+
+
 please add the python file as a function in AWS lambda this function gets invoked when there is put request in S3,this invokes a trigger which is setup in the infrastructure which writes the results in the DynamoDB database.
+
+
+
 ![Screenshot 2021-08-05 22 33 59](https://user-images.githubusercontent.com/71206184/128874830-b5f0f6af-8a87-4c1f-8230-d0764f41eef3.png)
 
 ![Screenshot 2021-08-05 22 34 43](https://user-images.githubusercontent.com/71206184/128874864-8aae6200-671e-445a-aead-4754ed79ee0a.png)
