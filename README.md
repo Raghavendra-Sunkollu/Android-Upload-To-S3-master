@@ -58,6 +58,13 @@ please add the python file as a function in AWS lambda this function gets invoke
 ![Screenshot 2021-08-05 22 39 24](https://user-images.githubusercontent.com/71206184/128874892-5fcf77b0-fc4c-4475-a554-7215d36a7815.png)
 ![Screenshot 2021-08-06 23 18 19](https://user-images.githubusercontent.com/71206184/128874902-7a5fe0c0-4e4f-4a9e-9622-7368ff13d4e2.png)
 
+
+Configure test event in this manner
+
+
+![2021-08-10 (1)](https://user-images.githubusercontent.com/71206184/128878029-d7449484-9c3a-46ac-ac87-4b784c9b7e47.png)
+
+
  
  
  
